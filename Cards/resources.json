@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "resourceName": "Ejemplo",
+        "resourceDescription": "Esta es una plantilla básica de JSON",
+        "resourceAuthor": "Jhon doe",
+        "enabled": true,
+        "resourceType": "code",
+        "resourceDate": "00/00/0000",
+        "tags": ["Tag1", "Tag2", "Tag3"],
+        "resourceLink": "https://example.link",
+        "resourceImages": {
+          "linkImage":[ "https://example.com", 
+          "https://example.com", 
+          "https://example.com" 
+        ]
+        }
+      },
+
+      {
+        "id": 2,
+        "resourceName": "Ejemplo",
+        "resourceDescription": "Esta es una plantilla básica de JSON",
+        "resourceAuthor": "Jhon doe",
+        "enabled": true,
+        "resourceType": "model",
+        "resourceDate": "00/00/0000",
+        "tags": ["Tag1", "Tag2", "Tag3"],
+        "resourceLink": "https://example.link",
+        "resourceImages": {
+          "linkImage":[ "https://example.com", 
+          "https://example.com", 
+          "https://example.com" 
+        ]
+        }
+      },
+
+      {
+        "id": 3,
+        "resourceName": "Ejemplo",
+        "resourceDescription": "Esta es una plantilla básica de JSON",
+        "resourceAuthor": "Jhon doe",
+        "enabled": true,
+        "resourceType": "sound",
+        "resourceDate": "00/00/0000",
+        "tags": ["Tag1", "Tag2", "Tag3"],
+        "resourceLink": "https://example.link",
+        "resourceImages": {
+          "linkImage":[ "https://example.com", 
+          "https://example.com", 
+          "https://example.com" 
+        ]
+        }
+      },
+      {
+        "id": 4,
+        "resourceName": "Ejemplo",
+        "resourceDescription": "Esta es una plantilla básica de JSON",
+        "resourceAuthor": "Jhon doe",
+        "enabled": true,
+        "resourceType": "image",
+        "resourceDate": "00/00/0000",
+        "tags": ["Tag1", "Tag2", "Tag3"],
+        "resourceLink": "https://example.link",
+        "resourceImages": {
+          "linkImage":[ "https://example.com", 
+          "https://example.com", 
+          "https://example.com" 
+        ]
+        }
+      }
+]
+  
