@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "resourceName": "Ejemplo",
-        "resourceDescription": "Esta es una plantilla básica de JSON",
-        "resourceAuthor": "Jhon doe",
+        "resourceName": "Classic Zombie",
+        "resourceDescription": "Zombie clasico con scripts que sigue al jugador",
+        "resourceAuthor": "@Feern0912",
         "enabled": true,
         "resourceType": "code",
         "resourceDate": "00/00/0000",
