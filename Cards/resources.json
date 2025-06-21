@@ -2,7 +2,7 @@
     {
         "id": 000001,
         "resourceName": "DayNightSystem",
-        "resourceDescription": "Un pequeño sistema de dia y noche mejorado",
+        "resourceDescription": "Un pequeño sistema de dia y noche mejorado, con un sistema de dias de la semana totalemnte perzonalizable.",
         "resourceAuthor": "@MrJump323",
         "enabled": true,
         "resourceType": "code",
@@ -16,7 +16,7 @@
       {
         "id": 000002,
         "resourceName": "StarterCharacter",
-        "resourceDescription": "Un personaje de incio recoloreado como noob",
+        "resourceDescription": "Un personaje de incio recoloreado como noob.",
         "resourceAuthor": "@MrJump323",
         "enabled": true,
         "resourceType": "model",
@@ -30,7 +30,7 @@
       {
         "id": 000003,
         "resourceName": "Dreams",
-        "resourceDescription": "Esta es una plantilla básica de JSON",
+        "resourceDescription": "Este es un sonido oficial de la experiencia Untitled Battle Game, gratis para su descarga.",
         "resourceAuthor": "@MrJump323",
         "enabled": true,
         "resourceType": "sound",
