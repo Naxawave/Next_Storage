@@ -9,12 +9,7 @@
         "resourceDate": "00/00/0000",
         "tags": ["Tag1", "Tag2", "Tag3"],
         "resourceLink": "https://example.link",
-        "resourceImages": {
-          "linkImage":[ "https://example.com", 
-          "https://example.com", 
-          "https://example.com" 
-        ]
-        }
+        "resourceImages": "https://tmt-assets-ui.s3.eu-north-1.amazonaws.com/assets/og-image.png"
       },
 
       {
@@ -27,12 +22,7 @@
         "resourceDate": "00/00/0000",
         "tags": ["Tag1", "Tag2", "Tag3"],
         "resourceLink": "https://example.link",
-        "resourceImages": {
-          "linkImage":[ "https://example.com", 
-          "https://example.com", 
-          "https://example.com" 
-        ]
-        }
+        "resourceImages": "https://tmt-assets-ui.s3.eu-north-1.amazonaws.com/assets/og-image.png"
       },
 
       {
@@ -45,13 +35,9 @@
         "resourceDate": "00/00/0000",
         "tags": ["Tag1", "Tag2", "Tag3"],
         "resourceLink": "https://example.link",
-        "resourceImages": {
-          "linkImage":[ "https://example.com", 
-          "https://example.com", 
-          "https://example.com" 
-        ]
-        }
+        "resourceImages": "https://tmt-assets-ui.s3.eu-north-1.amazonaws.com/assets/og-image.png"
       },
+    
       {
         "id": 4,
         "resourceName": "Ejemplo",
@@ -62,12 +48,7 @@
         "resourceDate": "00/00/0000",
         "tags": ["Tag1", "Tag2", "Tag3"],
         "resourceLink": "https://example.link",
-        "resourceImages": {
-          "linkImage":[ "https://example.com", 
-          "https://example.com", 
-          "https://example.com" 
-        ]
-        }
+        "resourceImages": "https://tmt-assets-ui.s3.eu-north-1.amazonaws.com/assets/og-image.png"
       }
 ]
   
