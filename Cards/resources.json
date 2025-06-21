@@ -1,13 +1,13 @@
 [
     {
-        "id": 1,
+        "id": 000001,
         "resourceName": "DayNightSystem",
         "resourceDescription": "Un pequeño sistema de dia y noche mejorado",
         "resourceAuthor": "@MrJump323",
         "enabled": true,
         "resourceType": "code",
-        "resourceDate": "00/00/0000",
-        "tags": ["Tag1", "Tag2", "Tag3"],
+        "resourceDate": "21/06/2025",
+        "tags": ["Script", "Dia", "Nohce", "Automatico"],
         "resourceLink": "https://github.com/Naxawave/Next_Storage/releases/download/v1.0/DayNightSystem.rbxm",
         "resourcePage": "https://create.roblox.com/store/asset/110596518251377/DayNightSystem",
         "resourceImages": "https://tmt-assets-ui.s3.eu-north-1.amazonaws.com/assets/og-image.png"
