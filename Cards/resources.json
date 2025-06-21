@@ -14,16 +14,16 @@
       },
 
       {
-        "id": 2,
-        "resourceName": "Ejemplo",
-        "resourceDescription": "Esta es una plantilla básica de JSON",
-        "resourceAuthor": "Jhon doe",
+        "id": 000002,
+        "resourceName": "StarterCharacter",
+        "resourceDescription": "Un personaje de incio recoloreado como noob",
+        "resourceAuthor": "@MrJump323",
         "enabled": true,
         "resourceType": "model",
-        "resourceDate": "00/00/0000",
-        "tags": ["Tag1", "Tag2", "Tag3"],
-        "resourceLink": "https://example.link",
-          "resourcePage": "https://create.roblox.com/store/asset/110596518251377/DayNightSystem",
+        "resourceDate": "21/06/2025",
+        "tags": ["Modelo", "Startercharacter", "Noob"],
+        "resourceLink": "1mEU205dUKWMTEmljqP40NeEvIGoG1vc6",
+        "resourcePage": "https://create.roblox.com/store/asset/11619524575/StarterCharacter",
         "resourceImages": "https://tmt-assets-ui.s3.eu-north-1.amazonaws.com/assets/og-image.png"
       },
 
