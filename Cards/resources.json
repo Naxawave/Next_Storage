@@ -1,14 +1,15 @@
 [
     {
         "id": 1,
-        "resourceName": "Classic Zombie",
-        "resourceDescription": "Zombie clasico con scripts que sigue al jugador",
-        "resourceAuthor": "@Feern0912",
+        "resourceName": "DayNightSystem",
+        "resourceDescription": "Un pequeño sistema de dia y noche mejorado",
+        "resourceAuthor": "@MrJump323",
         "enabled": true,
         "resourceType": "code",
         "resourceDate": "00/00/0000",
         "tags": ["Tag1", "Tag2", "Tag3"],
-        "resourceLink": "https://example.link",
+        "resourceLink": "https://drive.google.com/uc?export=download&id=1lxWNHMJgzcXfl-BH-1H5tel3LiznXNX3",
+        "resourcePage": "https://create.roblox.com/store/asset/110596518251377/DayNightSystem",
         "resourceImages": "https://tmt-assets-ui.s3.eu-north-1.amazonaws.com/assets/og-image.png"
       },
 
@@ -22,6 +23,7 @@
         "resourceDate": "00/00/0000",
         "tags": ["Tag1", "Tag2", "Tag3"],
         "resourceLink": "https://example.link",
+          "resourcePage": "https://create.roblox.com/store/asset/110596518251377/DayNightSystem",
         "resourceImages": "https://tmt-assets-ui.s3.eu-north-1.amazonaws.com/assets/og-image.png"
       },
 
@@ -35,6 +37,7 @@
         "resourceDate": "00/00/0000",
         "tags": ["Tag1", "Tag2", "Tag3"],
         "resourceLink": "https://example.link",
+        "resourcePage": "https://create.roblox.com/store/asset/110596518251377/DayNightSystem",
         "resourceImages": "https://tmt-assets-ui.s3.eu-north-1.amazonaws.com/assets/og-image.png"
       },
     
@@ -48,6 +51,7 @@
         "resourceDate": "00/00/0000",
         "tags": ["Tag1", "Tag2", "Tag3"],
         "resourceLink": "https://example.link",
+        "resourcePage": "https://create.roblox.com/store/asset/110596518251377/DayNightSystem",
         "resourceImages": "https://tmt-assets-ui.s3.eu-north-1.amazonaws.com/assets/og-image.png"
       }
 ]
